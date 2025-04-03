@@ -1,0 +1,14 @@
+.dark-mode,
+.light-mode {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dark-mode{
+    color: white;
+    background-color: black;
+}
+
+.light-mode{
+    background-color: yellow;
+}
